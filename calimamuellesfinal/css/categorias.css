@@ -1,0 +1,54 @@
+.btn-info{
+    color: black;
+    background-color: #fff159;
+    border-color: #fff159;
+}
+
+.btn-info:hover {
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+.card-primary:not(.card-outline)>.card-header {
+    background-color: #fff159;
+    color:black;
+}
+ .botone{
+  position:relative;
+  top: -20px;
+  left:-50px;
+  font-size:15px;
+  width:80px ;
+  height:30px;
+}
+.botones{
+  position:relative;
+  top: -60px;
+  left:50px;
+  font-size:15px;
+  width:80px ;
+  height:30px;
+}
+.bg-gray, .bg-gray>a {
+  color: black!important;
+  font-size:25px;
+}
+.bg-gray {
+  background-color: white!important;
+  border:solid 0.5px #bec7c7;
+  border-radius:3px;
+  box-shadow:2px 2px 2px 2px #bec7c7;
+}
+small{
+  position:relative;
+  top:-40px;
+}
+.catego{
+  font-size:25px;
+}
+
+.teal:hover{
+    
+  background-color: rgb(197, 151, 151)!important;
+  color:red;
+}

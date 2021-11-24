@@ -1,0 +1,76 @@
+.bg-dark {
+    background-color: #fff159 !important;
+}
+
+.carta {
+    width: 376px;
+    height: 425px;
+}
+
+.font-weight-bold {
+    font-weight: 400!important;
+    font-size: 15px !important;
+}
+
+
+/*buscador*/
+
+.search {
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+}
+
+.search input {
+    height: 60px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid #fff159
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 16px
+}
+
+.search button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 50px;
+    width: 110px;
+    background: #fff159;
+}
+
+.dropdown {
+    width: 100%!important;
+    max-width: 50px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.dropdown-menu {
+    position: absolute;
+    left: -210px;
+}
+
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    position: relative;
+    left: -10%!important;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: gray!important;
+    border-color: gray !important;
+}

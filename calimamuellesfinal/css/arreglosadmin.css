@@ -1,0 +1,71 @@
+
+[class*=sidebar-dark-] {
+    background-color: #fff159;
+}
+.navbar-white {
+    background-color: #fff159;
+    color: #1f2d3d;
+}
+
+.img-circle {
+    border-radius: 0;
+}
+
+.brand-link img {
+    position: relative;
+    left: -15px;
+    vertical-align: none;
+    width: 40px;
+    height: 27px;
+}
+[class*=sidebar-dark] .brand-link, [class*=sidebar-dark] .brand-link .pushmenu {
+    color: black;
+}
+[class*=sidebar-dark] .brand-link .pushmenu:hover, [class*=sidebar-dark] .brand-link:hover {
+    color: gray;
+}
+
+[class*=sidebar-dark] .brand-link {
+    border-bottom: 1px solid black;
+}
+[class*=sidebar-dark-] .sidebar a {
+    color: black;
+}
+
+element.style {
+    padding: 0px 8px;
+    height: 100%;
+    width: 100%;
+    top: 50px;
+}
+[class*=sidebar-dark-] .sidebar a:focus, [class*=sidebar-dark-] .sidebar a:hover{
+    color: gray;
+}
+element.style {
+    position: relative;
+    padding: 0px 8px;
+    height: 100%;
+    width: 100%;
+    top: 10px;
+}
+.user-panel img {
+    position: relative;
+    height: auto;
+    width: 3rem;
+    left: -8px;
+}
+[class*=sidebar-dark-] .sidebar a {
+    position: relative;
+    top: 10px;
+}
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link {
+    color: black;
+}
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:focus, [class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:hover {
+    background-color: rgba(104, 104, 104, 0.1);
+    color: gray;
+}
+.img-circle {
+    border-radius: 2px;
+}
+

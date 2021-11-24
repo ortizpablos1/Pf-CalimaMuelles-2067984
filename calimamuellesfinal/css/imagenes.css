@@ -1,0 +1,16 @@
+.info {
+    color: #fff;
+    background-color: #fff159;
+    border-color: #fff159;
+    box-shadow: none;
+    color: black;
+    width: 100px;
+}
+.info:hover {
+    color: black;
+    background-color: #fff159!important;
+    border-color: #fff159!important;
+    box-shadow: none;
+    color: black;
+    width: 100px;
+}

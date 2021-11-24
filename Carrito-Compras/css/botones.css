@@ -1,0 +1,45 @@
+.btn-danger {
+   
+
+    color: black;
+    background-color: #fff159!important;
+    border-color: #fff159!important;
+  }
+  
+  .btn-danger:hover {
+    color: black;
+    background-color: #ffffff!important;
+    border-color: black!important;
+  }
+  .btn-danger:focus, .btn-danger.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 233, 38, 0.5)!important;
+  }
+  .btn-primary {
+    color:black;
+    background-color: #fff159 !important  ;
+    border-color: #fff159!important;
+  }
+  
+  .btn-primary:hover {
+    color: black;
+    background-color: rgb(255, 255, 255)!important;
+    border-color: black!important;
+  }
+  .btn-primary:focus, .btn-primary.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 233, 38, 0.5)!important;
+  }
+
+  .btn-primar:focus, .btn-primar.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 38, 38, 0.5)!important;
+  }
+.btn-primar {
+  color:black;
+  background-color: white !important  ;
+  border-color: black!important;
+}
+
+.btn-primar:hover {
+  color: black;
+  background-color:rgba(225, 83, 97, 0.5)!important;
+  border-color: black!important;
+}

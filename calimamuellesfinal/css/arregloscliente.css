@@ -1,0 +1,14 @@
+.brand-link {
+    position: relative;
+    left: -850px;
+    display: block;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    padding: .8125rem .5rem;
+    transition: width .3s ease-in-out;
+    white-space: nowrap;
+}
+.navbar-white {
+    background-color: #fff159;
+    color: #1f2d3d;
+}

@@ -1,0 +1,7 @@
+.card-primary:not(.card-outline)>.card-header {
+    background-color: #fff159;
+    color: black !important;
+}
+.bg-gradient-primary>.card-header .btn-tool, .bg-primary>.card-header .btn-tool, .card-primary:not(.card-outline)>.card-header .btn-tool {
+    color: black;
+}

@@ -1,0 +1,264 @@
+/*Responsive Medidas Queries
+
+@media (min-width: 768px) { }
+@media (min-width: 1024px) { }
+@media (min-width: 1200px) { }
+@media (min-width: 768px) and (max-width: 1199px) {  }
+@media (min-width: 768px) { }
+@media (min-width: 1024px) { }*/
+
+.contenedorpincipal{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.main-header{
+    background-color: #fff159;
+}
+
+.nav-link{
+    left: 9%;
+}
+.form-control{
+    width: 70%;
+    height: 10%;
+}
+.btn-btn{
+    height: 20%;
+}
+.collapse-navbar{
+    left: -50%;
+}
+.input-group-sm>.custom-select, .input-group-sm>.form-control:not(textarea) {
+    height: calc(2rem + 2px);
+}
+.input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control, .input-group>.form-control-plaintext {
+    position: relative;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    width: 60%;
+    min-width:10% ;
+    margin-bottom: 0;
+}
+.form-control {
+    width: 70%;
+    height: 10%;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    position: relative;
+    width: 100%;
+    padding-right: 7.5px;
+    padding-left: -100px;
+   
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.caja1234{ 
+    position: relative;
+    background-color:wheat;
+    border: 1px solid black;
+    height: 865px;
+    top: 20%;
+}
+
+
+.ld{
+    position: relative;
+    /*background-color: #fff159;*/
+    height: 800px;
+    width: 20%;
+    top: 1%;
+    border: 1px solid black;
+    
+}
+.lizq{
+    position: relative;
+    /*background-color: blanchedalmond;*/
+    height: 795px;
+    width: 20%;
+    left: 80%;
+    top: -92%;
+    bottom: 890px;
+    border: 1px solid black;
+} 
+
+.btn-outline-success {
+    position: relative;
+    color: #111111;
+    border-color: #272928;
+    top: 10%;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+.imagen1{
+    position: relative;
+    background-color: #fff159 ;
+    top: -183%;
+    right: -74%;
+    width: 20%;
+}
+.cajacentral{
+    position: relative;
+    border: 1px solid black;
+    width: 55%;
+    height: 350px;
+    top: -184%;
+    left: 22%;
+
+}
+.cajadecatalogos{
+    position: relative;
+    margin: 1%;
+    height: 445px;
+    width: 100%;
+    border: 1px solid black;
+    right: 1%;
+}
+.caja1{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    height: 35%;
+    width: 24%;
+    border: 1px solid black;
+    top: 2%;
+    right:-1%;
+
+}
+    
+
+.caja2{
+    position: relative;
+    background-color: beige;
+    margin: 8px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -35%;
+    right: -25%;
+}
+.caja3{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -72%;
+    right: -50%;
+
+}
+.caja4{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -107.5%;
+    right: -74.5% ;
+}
+.caja5{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -90%;
+    right: -1%;
+
+}
+
+.caja6{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -125.5% ;
+    right: -25.5%;
+}
+
+.caja7{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -161%;
+    right: -50%;
+}
+
+.caja8{
+    position: relative;
+    background-color: beige;
+    margin: 2px;
+    width: 24%;
+    height: 35%;
+    border: 1px solid black;
+    top: -196.5%;
+    right: -75% ;
+}
+
+.img1{
+    height: 350px;
+    width: 100%;
+}
+.img2{
+    height: 350px;
+    width: 100%;
+}
+.img3{
+    height: 350px;
+    width: 100%;
+}
+.imgizq{
+    position: relative;
+    top: 90%;
+}
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: rgb(17, 17, 17);
+    background-color: #fff159;
+    border: 1px solid black;
+}
+.nav-pills .nav-link {
+    border-radius: .5rem;
+}
+.bg-light, .bg-light>a {
+   color: #0d0d0e!important;
+
+}
+.bg-light {
+    background-color: gray!important;
+  
+
+} 
